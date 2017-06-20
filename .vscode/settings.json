@@ -1,0 +1,6 @@
+// Поместите параметры в этот файл, чтобы перезаписать параметры по умолчанию и пользовательские параметры.
+{
+    "editor.fontFamily": "Verdana, 'Sans-serif', monospace",
+    "editor.fontSize": 13,
+    "editor.letterSpacing": 0.6,
+}
